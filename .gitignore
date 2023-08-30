@@ -12,7 +12,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 
-.idea
+/.idea
 **/__pucashe__
 */__pucashe__
 
